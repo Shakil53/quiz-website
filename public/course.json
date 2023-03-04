@@ -15,12 +15,12 @@
         "_id": "03",
         "index": 2,
         "price": 300,
-        "picture": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
     },
     {
         "_id": "04",
         "index": 3,
         "price": 205,
-        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+        "picture": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
     }
 ]
