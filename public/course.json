@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "01",
+        "index": 0,
+        "price": 25,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "_id": "02",
+        "index": 1,
+        "price": 378,
+        "picture": "https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge-700x700.png"
+    },
+    {
+        "_id": "03",
+        "index": 2,
+        "price": 300,
+        "picture": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
+    },
+    {
+        "_id": "04",
+        "index": 3,
+        "price": 205,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+    }
+]
