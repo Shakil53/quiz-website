@@ -9,10 +9,11 @@ const Header = () => {
                 <img alt='company-logo' src='https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-quiz-logo-with-speech-bubble-symbols-png-image_6568572.png'></img>
             </div>
             <nav className='nav'>
-                <Link to="home">Home</Link>
+                <Link to="/">Home</Link>
                 <Link to="about">About</Link>
-                <Link to="Course">Course</Link>
+
                 <Link to="Quiz">Quiz</Link>
+                <Link to="/">Course</Link>
                 <Link to="order">Order</Link>
             </nav>
         </div>

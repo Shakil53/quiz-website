@@ -2,7 +2,6 @@ import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import About from './components/About/About';
 import Course from './components/Header/Course/Course';
-import Header from './components/Header/Header';
 import Order from './components/Header/Order';
 import Quiz from './components/Quiz/Quiz';
 import Home from './Home/Home';
@@ -19,14 +18,12 @@ const App = () => {
           loader: () => fetch('course.json'),
           element: <Home></Home>
         },
-        {
-          path: '/course',
-          element: <Course></Course>
-        },
+
         {
           path: '/quiz',
           element: <Quiz></Quiz>
         },
+
         {
           path: '/about',
           element: <About></About>
