@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className='header container  p-2 shadow p-3 mb-5 bg-body-tertiary rounded mt-2 bg-info d-flex justify-content-between '>
             <div className='img'>
-                <img alt='company-logo' src='https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-quiz-logo-with-speech-bubble-symbols-png-image_6568572.png'></img>
+                <a href='/'><img alt='company-logo' src='https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-quiz-logo-with-speech-bubble-symbols-png-image_6568572.png'></img></a>
             </div>
             <nav className='nav'>
                 <Link to="/">Home</Link>
